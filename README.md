@@ -16,6 +16,6 @@ I wanted to create my first keyboard and I hope you like it! I struggled a bit, 
 + 10x Through-hole 1N4148 Diodes
 + 9x MX-Style switches + 9x Blank DSA keycaps
 + 1x EC11 Rotary encoders
-+ 1x 0.91 inch OLED displays
++ 1x 0.91 inch OLED SSD1306 (5V VCC, 3.3V logic, I2C)
 + 1x SK6812 MINI-E LEDs
 + 4x M3x16 Bolt + 4x M3 Heatset
