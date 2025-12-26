@@ -10,6 +10,9 @@ I wanted to create my first keyboard and I hope you like it! I struggled a bit, 
 # CASE
 <img width="727" height="385" alt="image" src="https://github.com/user-attachments/assets/b5c617f3-8323-45ef-9a6c-d2b1e2f562e1" />
 
+# Firmware
+The firmware was made in KMK.
+
 
 # BOM
 + 1x Seeed XIAO RP2040 (through-hole)
